@@ -1,12 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
+ 
+ 
 import Home from "./Components/Home"
+import Login from "./Login/Login";
+import Signup from "./SignUp/Signup";
+ 
+
 
 
 function App() {
   return (
     <div className="App">
-      <Home/>
+      {/* <Home/> */}
+     
+       <Signup/>
+       {/* <Login/> */}
     </div>
   );
 }
