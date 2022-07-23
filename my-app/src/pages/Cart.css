@@ -1,0 +1,22 @@
+.cartpage{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: auto;
+/*    
+    margin-left: 300px; */
+    /* margin-top: -300px; */
+    border: 1px solid black;
+   
+
+}
+.cartpage>div{
+    height:500px;
+   border: 1px solid black;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+.cartpage>div>img{
+    width: 100%;
+    margin-left: 25px;
+    height: 100px;
+    margin-top: 30px;
+}

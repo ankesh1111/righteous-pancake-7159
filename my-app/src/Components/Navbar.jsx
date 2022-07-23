@@ -1,10 +1,13 @@
 
+   import { Link } from "react-router-dom";
+
 
 function Navbar(){
 
     return (
         <div>
             
+            {/* <Link to="/">Home</Link>  */}
 <div id="navbar">
 
 <div>
@@ -34,8 +37,9 @@ function Navbar(){
         <option value="">Careers</option>
     </select>
 </div>
-<div class="l2"><a href="login.jsx">Sign in</a></div>
-<div class="l1"><a  href="signup.jsx">Join</a></div>
+<div class="l2"><Link   to="/Login">Sign in</Link> </div>
+<div class="l1"> <Link  to="/Signup">Join</Link></div>
+ 
 </div>
 
 
@@ -44,10 +48,15 @@ function Navbar(){
 <div id="container">
 
 <h2 class="lyst">LYST</h2>
-<a href="Women.jsx">WOMEN </a> 
-<a href="Men.jsx">MEN</a> 
+
+<Link to="/Women">  WOMEN </Link>  
+<Link to="/Men"> MEN</Link> 
+ 
+
+
+
 <div>
-    <input    type="text"   placeholder="SEARCH (E.G ACNE JEANS)"/>
+    <input type="text"   placeholder="SEARCH (E.G ACNE JEANS)"/>
     <i class="fa-solid fa-magnifying-glass search"></i>
 </div>
 </div>

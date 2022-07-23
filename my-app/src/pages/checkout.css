@@ -1,0 +1,59 @@
+ 
+
+ .h3{
+    margin-left: 580px;
+    font-size: 30px;
+    margin-top: -140px;
+ }
+ #shop1{
+    width: 80%;
+    height: 50px;
+    display: flex;
+    gap: 150px;
+    margin: auto;
+    margin-top: -10px;
+    margin-left: 200px;
+ }
+ .shop2{
+    font-size: 15px;
+    margin-left: 23px;
+    margin-top: -5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: grey;
+  }
+  #form1{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    justify-items: center;
+    padding:10px;
+   height: 500px;
+    
+    flex-direction: column;
+    width:340px;
+    border: 2px solid black;
+  }
+ 
+    #form1 input{
+        margin: 20px;
+        width:280px;
+        margin-top: -10px;
+        padding: 10px;
+        border: 1px solid grey;
+  }
+  #submit1{
+    margin-top: 30px;
+    background-color:  teal;
+    color: white;
+    border: none;
+    /* width: 300px; */
+    
+    font-size: 15px;
+  }
+  #submit1:hover{
+background-color:deeppink;
+  }
+  .h4{
+    font-size: 30px;
+    margin-top: -25px;
+  }

@@ -15,7 +15,7 @@ function Home(){
 
 {/* Navbar section 1 */}
 
- <Navbar/>
+ {/* <Navbar/> */}
  
 
 {/* First Section */}
@@ -25,9 +25,8 @@ function Home(){
        <div>
         <img  src="https://cdna.lystit.com/cms/ENG_header_desktop_bddf9b3474_884ff704d3.jpg" alt=""/>
        </div>
- 
- 
-    </div>
+
+</div>
     <br />
     <br />
     <br />
