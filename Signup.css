@@ -1,0 +1,141 @@
+  
+
+
+  
+#sign1{
+          
+    width:70%;
+     /* border: 1px solid red;     */
+    height:800px;
+    margin: auto;
+    margin-top: -10px;
+   
+    
+}
+#sign1>div{
+   
+    height: 780px;
+    width:30%;
+    margin-top: 100px;
+    margin: auto;
+    /* border: 1px solid red; */
+}
+ 
+p1{
+    margin-top: -20px;
+    font-size: 20px;
+    border: 1px solid grey;
+    height:28px;
+    padding: 5px;
+    display: flex;
+    margin-left:  250px;
+    padding-top: -200px;
+}
+#sign2{
+
+    width:100px;
+    height: 100px;
+    margin-top: -100px;
+    margin-left: 400px;
+    background-color: rgb(186, 136, 233);
+} 
+ #sign2>div{
+
+    width:320px;
+    height: 220px;
+    margin-left:75px;
+    margin-top:300px;
+    background-color:  white;
+    
+}
+ 
+h6{
+    font-size: 20px;
+    margin-left: 10px;
+}
+c1{
+    font-size: 25px;
+    padding-left: 2px;
+    margin-top: 10px;
+    
+}
+ 
+p3{
+    padding-left: 70px;
+    margin-top:-20px;
+    margin-left: 10px;
+  
+  
+}
+#email{
+    margin-left: 5px;
+    padding: 10px; 
+    width:300px;
+    height: 30px;
+  
+}
+#pass{
+    margin-left: 5px;
+    padding: 10px;
+    width:300px;
+    height:30px
+}
+ 
+.r1{
+    margin-left: 2px;
+    padding: 10px;
+    width:300px;
+    height:30px
+
+}
+ p3{
+    margin-left: 80px;
+    margin-top: 10px;
+} 
+  #sign1{
+    /* border: 1px solid red; */
+    margin: auto;
+    height: 900px;
+    width:70%;
+    display: flex;
+ }
+ #sign1>div{
+    height: 900px;
+    width:50%;
+    /* border: 1px solid red; */
+ }
+ 
+
+ .g1{
+    font-size: 30px;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+ }
+ .g2{
+    margin-left: 2px;
+    background-color: black;
+    color: white;
+    border: 1ox solid black;
+    padding: 16px ;
+    cursor: pointer;
+}
+
+.g3{
+    margin-left:-92px;
+    font-size: 19px;
+    padding-top: 20px;
+    padding-left: 120px;
+}
+.g4{
+    padding-left: 30px;
+     margin-top: 100px;
+
+}
+.g5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: grey;
+}
+.g6{
+    color: grey;
+}

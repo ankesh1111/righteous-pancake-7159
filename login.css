@@ -1,0 +1,115 @@
+#login{
+    width:70%;
+    height:570px;
+    margin: auto;;
+    margin-top: -10px;
+  /* border: 1px solid red;  */
+    display: flex;
+}
+#login>div{
+    height: 570px;
+    width:50%;
+
+  margin: auto;
+ /* border: 1px solid red;  */
+}
+.h2{
+    font-size: 30px;
+    margin-top:-150px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.h3{
+    font-size: 20px;
+    margin-left: 115px;
+    margin-top: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#email1{
+    margin-left: 115px;
+    padding: 10px;
+    width:290px;
+    height: 25px;
+    border: 2px solid grey;
+}
+.s1{
+    margin-left: 115px;
+    padding: 10px;
+    width:315px;
+    border: none;
+    height: 45px;
+    border: 2px solid grey;
+    cursor: pointer;
+}
+ 
+.s1:hover{
+    background-color: white;
+    color: #000000;
+}
+ 
+.btn{
+    margin-left: 115px;
+    padding: 10px;
+    width:315px;
+    border: none;
+    height: 45px;
+    border: 2px solid grey;
+    background-color: cornflowerblue;
+}
+.btn1{
+    margin-left: 115px;
+    padding: 10px;
+    width:315px;
+    border: none;
+    height: 45px;
+    border: 2px solid grey;
+     background-color: white;
+     color: grey;
+}
+.s2{
+    margin-left: 250px;
+      padding-top: -90px;
+}
+.h1{
+     
+background-color: black;
+color: white;
+height:30px;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+padding: 5px;
+width: 200px;
+margin-left: 115px;
+padding-left: 30px;
+margin-top: 20px;
+cursor: pointer;
+}
+#login1{
+
+width:100px;
+height: 100px;
+/* border: 1px solid red; */
+background-color: rgb(186, 136, 233);
+}
+#login1>div{
+
+width:300px;
+height: 200px;
+background-color:  white;
+margin-left: 80px;
+margin-top: 140px;
+
+}
+ 
+ 
+.h4{
+    margin-left:-92px;
+    font-size: 19px;
+    padding-top: 20px;
+    padding-left: 120px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.h5{
+    padding-left: 30px;
+    margin-top: 100px;
+}

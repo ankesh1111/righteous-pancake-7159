@@ -1,0 +1,58 @@
+.womenpage{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: auto;
+   
+    margin-left: 300px;
+    margin-top: -390px;
+    border: 1px solid black;
+   
+
+}
+.womenpage>div{
+    height:520px;
+   border: 1px solid black;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+.womenpage>div>img{
+    width: 100%;
+    margin-left: 25px;
+    height: 100px;
+    margin-top: 30px;
+}
+
+
+
+#women{
+    border: 1px solid #000000;
+    width: 100%;
+    height: 50px;
+    display: flex;
+ 
+}
+#women>p{
+    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 10px;
+    margin-left: 15px;
+    margin-top: 14px;
+    font-size: 16px;
+    
+
+}
+#womens{
+    width: 200px;
+    height: 100px;
+}
+#vertical-line{
+width:1px;
+height: 400px;
+margin-top: -90px;
+margin-left: 260px;
+background-color: #000000;
+}
+#womens>p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 30px;
+    font-size: 16px;
+}
