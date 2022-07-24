@@ -63,7 +63,8 @@ function Login(){
         <div id="login1">
             
         <div>
-            <h6 class="h4">As a Lyst member you can...</h6>
+             <h6 class="g3">As a Lyst member you can...</h6>
+            {/* <h6 class="h4">As a Lyst member you can...</h6> */}
             <p9 class="h5">Save your searches</p9><br/><br/>
             <p9 class="h5">Create a wishlist</p9><br/><br/>
             <p9 class="h5">Get alerts on your items</p9><br/><br/>

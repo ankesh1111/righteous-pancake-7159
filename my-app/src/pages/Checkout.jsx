@@ -6,9 +6,7 @@ function Checkout(){
     return (
         <div>
 
-         
-
-        <h3 class="h3">MYTHERESA</h3>
+ <h3 class="h3">MYTHERESA</h3>
 
 <div id="shop1">
     <p class="shop2">SHOPPING BAG</p>
