@@ -9,18 +9,16 @@ This is a Individual project, built by us in the Construct Week - Unit 4 at Masa
 In this project we have tried to clone frontend of Lyst. Project design is responsive
 for all screen sizes. This project is an effort to implement learning at masai and
 improve our understanding of the React.
-________________________________________________________________________________________________
-
+ 
  # Here is the link of our website live on netlify:
- ____________________________________________________________________________________
+ https://unique-kheer-6682a0.netlify.app
  
  # Presentation Video Link:-
  
- _______________________________________________________________________________________________
  
- # Blog Link:-
+# Blog Link:-
+ https://medium.com/@ankesh11yadav/construct-week-individual-project-2022-lyst-project-masai-school-8532c423c81b
  
- ____________________________________________________________________________________
  # Pages 
 1. Home Page
 2. Join/Signup
