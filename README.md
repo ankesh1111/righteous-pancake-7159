@@ -13,9 +13,6 @@ improve our understanding of the React.
  # Here is the link of our website live on netlify:
  https://unique-kheer-6682a0.netlify.app
  
- # Presentation Video Link:-
- 
- 
 # Blog Link:-
  https://medium.com/@ankesh11yadav/construct-week-individual-project-2022-lyst-project-masai-school-8532c423c81b
  
