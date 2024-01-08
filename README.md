@@ -7,7 +7,7 @@ Lyst is a fashion technology company, and premium shopping app.
  
 
 In this project we have tried to clone frontend of Lyst. Project design is responsive
-for all screen sizes. This project is an effort to implement learning at masai and
+for all screen sizes. This project is an effort to implement learning  and
 improve our understanding of the React.
  
  # Here is the link of our website live on netlify:
